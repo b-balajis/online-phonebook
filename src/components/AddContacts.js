@@ -89,7 +89,6 @@ const AddContacts = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log(completeForm);
   };
 
   const renderAddContacts = () => {
